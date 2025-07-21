@@ -36,9 +36,7 @@ Projeto de automação UI e API usando Playwright no site [Serverest](https://fr
 que da para entender perfeitamente (Dependendo do jeito que é escrito)
 
 
-## 🚀 Como executar
-```bash
-```bash
+## 🚀 Como executar:
 npm install
 npx playwright test --ui   # Abre a interface interativa de execução do Playwright
 ou
@@ -50,3 +48,10 @@ npx playwright show-report
 Se for a primeira vez rodando, inclua também:
 npx playwright install
 
+----------------------------------------------------
+📞 Contato
+Gustavo Martins
+🔗 [linkedin.com/in/gugamartins](https://www.linkedin.com/in/gustavo-martins-1a3457225/)
+▶️ YouTube: [Guga Martins](https://www.youtube.com/@gugamartins2509) 
+
+✨ Sinta-se à vontade para contribuir e abrir issues!
